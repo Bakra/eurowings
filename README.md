@@ -11,7 +11,7 @@ it have lazy loading
 when clicking an image in the gallery - show its details: big image, title, description, upvotes, downvotes and score.
 
 ## Project setup
-# Note: If you have any issues, run it on node version 10
+### Note: If you have any issues, run it on node version 10
 => clone / setup the project on local machine
 => cd eurowings
 => yarn / npm install
