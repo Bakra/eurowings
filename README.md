@@ -15,7 +15,7 @@ when clicking an image in the gallery - show its details: big image, title, desc
 => clone / setup the project on local machine
 => cd eurowings
 => yarn / npm install
-=> yarn start (this will run express server and webpack server) or ( ```npm run serve ``` to start the frontend and ```node server.js ``` for express server.
+=> yarn start (this will run express server and webpack server) or ( 'npm run serve' to start the frontend and ```node server.js ``` for express server.
 
 
 ### Compiles and hot-reloads for development
