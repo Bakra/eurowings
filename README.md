@@ -13,7 +13,7 @@ when clicking an image in the gallery - show its details: big image, title, desc
 ## Project setup
 
 => clone / setup the project on local machine
-=> cd imgur-vue
+=> cd eurowings
 => yarn / npm install
 => yarn start (this will run express server and webpack server) or ( ```npm run serve ``` to start the frontend and ```node server.js ``` for express server.
 
